@@ -132,26 +132,8 @@ class _CompanyDetailState extends State<CompanyDetail> {
                   Row(
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: <Widget>[
-                      InkWell(
-                        onTap: () {
-                          _showDialog();
-                        },
-                        child: Container(
-                          alignment: Alignment.center,
-                          padding: EdgeInsets.all(15.0),
-                          child: Text(
-                            "Ask a questions",
-                            style: TextStyle(color: Colors.white),
-                          ),
-                          decoration: BoxDecoration(
-                              borderRadius: BorderRadius.only(
-                                topLeft: Radius.circular(30.0),
-                                bottomLeft: Radius.circular(30.0),
-                                bottomRight: Radius.circular(30.0),
-                              ),
-                              color: Colors.purple.withOpacity(.4)),
-                        ),
-                      ),
+                  
+                      
                       SizedBox(
                         width: 20.0,
                       ),

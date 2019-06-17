@@ -63,13 +63,7 @@ class _StudiesListState extends State<StudiesList> {
                         children: <Widget>[
                           homeWidget("Wolswagen Company", "Project Manager",
                               "https://firebasestorage.googleapis.com/v0/b/internup-594b3.appspot.com/o/wolks.png?alt=media&token=9a5e6a5a-15ea-474a-8c98-b99977aa7f9d"),
-                          homeWidget("Udemy Company", "Product Manager",
-                              "https://firebasestorage.googleapis.com/v0/b/internup-594b3.appspot.com/o/udemys.png?alt=media&token=733d7845-6af2-4b10-8159-c4abe524711b"),
-                          homeWidget("Crems Company", "Data Analytics",
-                              "https://firebasestorage.googleapis.com/v0/b/internup-594b3.appspot.com/o/crems.png?alt=media&token=e61edd82-5def-4c65-a93a-4e2caae682d5"),
-                          //homeWidget("Neurology Reserch Test", "17.07.1997"),
-                          //homeWidget("Brain Reserch Test", "17.07.1997"),
-                          // homeWidget("Dermatology Reserch Test", "17.07.1997"),
+                          
                         ],
                       ),
                     )
