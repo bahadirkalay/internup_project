@@ -5,6 +5,11 @@ Bölüm bitirme projesi | Mobil uygulama Flutter
 # internupproject
 
 A new Flutter project.
+Bahadır KALAY
+İstanbul Medipol Üniversitesi Yönlendirilmiş Çalışma Final Projesi
+HR170009
+
+
 
 ## Getting Started
 
