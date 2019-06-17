@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "589579637937",
+    "firebase_url": "https://internup-594b3.firebaseio.com",
+    "project_id": "internup-594b3",
+    "storage_bucket": "internup-594b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589579637937:android:8c0b5eb9536c5d2c",
+        "android_client_info": {
+          "package_name": "com.example.internup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589579637937-0se415ud9v4qk296ta4dcb81v8o4utjd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACRnZW5jV7e4aviDhFln5BwEwZTWhQkkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589579637937-0se415ud9v4qk296ta4dcb81v8o4utjd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589579637937:android:2494b93a67f554a2",
+        "android_client_info": {
+          "package_name": "com.example.internupproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589579637937-0se415ud9v4qk296ta4dcb81v8o4utjd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACRnZW5jV7e4aviDhFln5BwEwZTWhQkkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589579637937-0se415ud9v4qk296ta4dcb81v8o4utjd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
